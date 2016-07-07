@@ -1,0 +1,3 @@
+<html>
+	Cadastro sucesso
+</html>
